@@ -42,5 +42,4 @@ with open("main.csv", "w") as f:
     csvwriter.writerow(headers)
     csvwriter.writerows(moons_data)
 
-#And the add the moons for Earth and Mars manually
-#Change the host planet fields in the last 3 rows generated in CSV (Hyperlinks)
+
